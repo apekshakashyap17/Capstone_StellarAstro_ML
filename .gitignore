@@ -1,0 +1,15 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# Ignore virtual environment folders
+.venv/
+
+# Ignore OS files
+.DS_Store
+
+# Ignore dataset files (optional)
+*.csv
